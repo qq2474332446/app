@@ -1,10 +1,10 @@
 {
-    "name": "haxi0's Source",
+    "name": "皮卡丘Store",
     "subtitle": "A source for all of my apps",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
-    "headerURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
-    "website": "https://haxi0.space/",
+    "iconURL": "http://app.pkq7.cn/assets/images/favicon.ico",
+    "headerURL": "http://app.pkq7.cn/assets/images/favicon.ico",
+    "website": "https://pkq7.cn/",
     "tintColor": "#F54F32",
     "featuredApps": [],
     "apps": [
